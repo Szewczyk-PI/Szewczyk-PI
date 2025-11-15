@@ -1,4 +1,7 @@
-# 🚀 Transforming Data into Intelligence | AI/DevOps Enthusiast
+<img align="left" width="200" height="200" alt="Logo_but_rounde" src="https://github.com/user-attachments/assets/a25b6f2c-ea82-43a9-ab2b-4e7bdc4542c9" />
+
+
+### **Transforming Data into Intelligence | AI/DevOps Enthusiast**
 
 Hi! I'm a **junior developer** who is dedicated to transitioning my career into the Python ecosystem, with a strong focus on **Artificial Intelligence (AI/ML)** and modern **DevOps** practices.
 
