@@ -12,7 +12,7 @@ I am actively developing proficiency in the following technologies and concepts 
 
 | Category | Technologies/Libraries |
 | :--- | :--- |
-| **Core Language** | Python |
+| **Core Language** | Python, FastAPI, FastMCP |
 | **AI/ML** | TensorFlow, PyTorch, Pandas, NumPy |
 | **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions |
 | **Databases** | PostgreSQL, SQlite |
@@ -26,6 +26,8 @@ This is the set of tools and technologies I am currently studying, experimenting
 
 #### 🛠️ Core Stack & AI/ML
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align="left" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img align="left" alt="FastMCP" src="https://img.shields.io/badge/FastMCP-0077CC?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img align="left" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img align="left" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <br>
